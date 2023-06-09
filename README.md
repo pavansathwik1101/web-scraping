@@ -2,6 +2,6 @@
 
 
 
-Developer website
+Developer 
 
 https://ganeshmkavhar.000webhostapp.com/
